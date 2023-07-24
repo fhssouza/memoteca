@@ -13,28 +13,10 @@
       "modelo": "modelo2"
     },
     {
-      "id": 3,
-      "conteudo": "Angular é o melhor'",
-      "autoria": "Dev Alura",
-      "modelo": "modelo3"
-    },
-    {
       "conteudo": "Pensamento de Teste",
       "autoria": "Dev Angular",
       "modelo": "modelo3",
       "id": 4
-    },
-    {
-      "conteudo": "fgdfsdfs",
-      "autoria": "fsdfsdf",
-      "modelo": "modelo2",
-      "id": 5
-    },
-    {
-      "conteudo": "fgdfgdsfgds",
-      "autoria": "fgsdfgsdfgsdfg",
-      "modelo": "1",
-      "id": 6
     }
   ]
 }
